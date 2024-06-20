@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **paulobarrantes98@gmail.com**
 
-- 💻 My Portfolio **https://paulobarrantes.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
