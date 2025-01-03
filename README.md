@@ -2,9 +2,6 @@
 <h3 align="center">Sofware Developer from Costa Rica 🇨🇷</h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-
-- 🌱 I’m currently learning **NextJS 13 and Swift UI**
-
 - 💬 Ask me about **react, js and typescript**
 - 🖌️  Pursuing **Graphic Design and Drawing** as hobbies/side hustles.
 
