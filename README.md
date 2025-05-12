@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">Sofware Developer from Costa Rica 🇨🇷</h3>
+<h3 align="center">Software Developer from Costa Rica 🇨🇷</h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about **react, js and typescript**
